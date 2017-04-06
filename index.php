@@ -5,4 +5,4 @@
  * Date: 2017/4/6
  * Time: 16:08
  */
-echo "cctv";
+echo "master";
