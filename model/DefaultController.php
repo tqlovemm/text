@@ -11,6 +11,7 @@ class DefaultController{
 
         echo "default-index";
         echo "app-index";
+        echo "app-v2";
     }
 
 }
