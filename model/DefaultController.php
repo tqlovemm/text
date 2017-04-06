@@ -10,7 +10,6 @@ class DefaultController{
     public function actionIndex(){
 
         echo "default-index";
-        echo "ccddddsdfsdfdsf";
     }
 
 }
