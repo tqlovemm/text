@@ -10,6 +10,7 @@ class DefaultController{
     public function actionIndex(){
 
         echo "default-index";
+        echo "cctv-index";
     }
 
 }
