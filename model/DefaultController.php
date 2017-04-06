@@ -10,7 +10,7 @@ class DefaultController{
     public function actionIndex(){
 
         echo "default-index";
-        echo "master-index";
+        echo "app-index";
     }
 
 }
